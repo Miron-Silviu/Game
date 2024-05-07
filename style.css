@@ -169,6 +169,8 @@ main {
 .hidden {
   display: none;
 }
+<<<<<<< HEAD
+=======
 
  Feature-branch
 @media screen and (min-width: 300px) and (max-width: 550px) {
@@ -207,3 +209,4 @@ main {
   
 }
 
+>>>>>>> 9aabff3a315fc2716380a42baa83bc6aadb4dadf
