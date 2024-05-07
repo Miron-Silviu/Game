@@ -169,34 +169,3 @@ main {
 .hidden {
   display: none;
 }
-
-@media screen and (min-width: 300px) and (max-width: 550px) {
-  main {
-    display: flex;
-    margin: 4rem 2rem;
-    flex-wrap: wrap;
-    height: auto;
-  }
-  .player--0 {
-    margin: 250px 40px 0 40px;
-    width: 25%;
-    height: 25%;
-  }
-  .btn--hold {
-    top: 80.5rem;
-    left: 22rem;
-    height: 5%;
-    width: 5%;
-  }
-  /* .btn--roll {
-    top: 80rem;
-    transform: translateX(-100%);
-    flex-wrap: wrap;
-    width: 50%;
-    background-color: blue;
-  } */
-  .player--1 {
-    margin: 0 100px 250px 40px;
-    background-color: blue;
-  }
-}
