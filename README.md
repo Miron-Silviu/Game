@@ -22,8 +22,9 @@ To win the game the user should have 20 points.
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page.
+- play the game by pressing the "Roll dice" button
+- hold the current score if the user want
+- start new game
 
 ### Screenshot
 
@@ -35,14 +36,27 @@ Users should be able to:
 
 ## My process
 
+The files index.html and style.css I received from the current course in which I am learning named "The complete JavaScript", after that I start to build the functionality by selecting elements and store it in variables.
+
+Then I start to create condition for "Roll Dice" button, by generating a random number using Math trunc and Math floor, also I choose to display the dice by manipulating style .css (show the hidden class).
+Another condition was added to switch players
+
+For "Hold" button the process contain:
+
+- Adding the current score to active player
+- Check if the player score is >=20
+- Finish the game
+- Switch to next player
+
+Reset button "New Game", for this part a function is created and inside of it are passed all the variables with the initial value.
+
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
+- JavaScript
 
 ### What I learned
 
-I this project I improved my skills regarding responsive design and also how to use better flexbox.
+I learned how to use Dom manipulation, how to use DRY principle, how to select and change variables value, what roll has "toggle class" and when to use it.
