@@ -3,12 +3,12 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 
 ## Overview
 
@@ -18,21 +18,21 @@ Every time when is it rolled one the player loos all the current score and it th
 
 To win the game the user should have 20 points.
 
-### The challenge
+## The challenge
 
 Users should be able to:
 
 - play the game by pressing the "Roll dice" button
 - hold the current score if the user want
 - start new game
+  
+# LINK
+[CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/Game/)
 
-### Screenshot
+## Screenshot
 
 ![alt text](image.png)
 
-### Links
-
-- Live Site URL: (https://miron-silviu.github.io/Game/)
 
 ## My process
 
@@ -50,13 +50,13 @@ For "Hold" button the process contain:
 
 Reset button "New Game", for this part a function is created and inside of it are passed all the variables with the initial value.
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - JavaScript
 
-### What I learned
+## What I learned
 
 I learned how to use Dom manipulation, how to use DRY principle, how to select and change variables value, what roll has "toggle class" and when to use it.
