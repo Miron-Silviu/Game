@@ -27,7 +27,7 @@ Users should be able to:
 - start new game
   
 # LINK
-[CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/Game/)
+[ VIEW DEMO](https://miron-silviu.github.io/Game/)
 
 ## Screenshot
 
