@@ -2,13 +2,16 @@
 
 ## Table of contents
 
+- [Links](#links)
 - [Overview](#overview)
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
+
+  # Links
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/Game/)
 
 ## Overview
 
@@ -25,9 +28,6 @@ Users should be able to:
 - play the game by pressing the "Roll dice" button
 - hold the current score if the user want
 - start new game
-  
-# LINK
-[ VIEW DEMO](https://miron-silviu.github.io/Game/)
 
 ## Screenshot
 
